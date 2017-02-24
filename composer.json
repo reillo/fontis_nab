@@ -1,0 +1,11 @@
+{
+    "name": "fontis/nab",
+    "type": "magento-module",
+    "description": "Fontis Nav",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "magento-root-dir": "ls"
+    }
+}
